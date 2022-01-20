@@ -2,38 +2,33 @@
 
 I am a Software Test Engineer with an experience of over 3.4 years. I have hands on experience working with ETL Testing and DWH testing. I have extensively worked on SQL and Informatica for 3 years.
 
+###Skills 
+SQL
+
 ### Experience
-
+Easybi Solutions Pvt Ltd
 #### Software Test Engineer
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+•	Created test cases to maximize success of software testing with consistent, thorough approaches.
+•	Hands on experience in writing advance SQL Queries.
+•	Extensively used Workflow manager, Workflow monitor in Informatica ETL tool.
+•	Good knowledge in Slowly Changing Dimensions (SCD), knowledge of different Schemas.
+•	Effective in Defect tracking and Bug Reporting in Bug Tracking tool.
 
 # Education
+
 B.E: Mechanical Engineering
-Government Engineering College -70%
-## Header 2
-### Header 3
+Government Engineering College (2015-2018)
+Percentage-70%
 
-- Bulleted
-- List
+Diploma: Mechanical Engineering
+Government School of Mines (2011-2014)
+Percentage-80%
 
-1. Numbered
-2. List
+## INTERESTS
+Apart from being a Test Engineer, I enjoy reading non-fiction books.
 
-**Bold** and _Italic_ and `Code` text
+I enjoy outgoing, social and adventurous, so i go for run everyday. I love travelling to different parts of the country and explore different cultures,in free time i Keeping up with the latest developments in technology.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prabhu2806/prabhu2806.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
